@@ -19,7 +19,6 @@
     "type": "git",
     "url": "git+https://github.com/Anudle/task-manager.git"
   },
-  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
